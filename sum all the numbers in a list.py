@@ -5,7 +5,6 @@
 # Expected Output : 20
 
 
-from xml.dom.minidom import Element
 
 
 li = []
