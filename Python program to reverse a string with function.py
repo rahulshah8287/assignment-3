@@ -4,7 +4,6 @@
 
 # Expected Output : "dcba4321"
 
-from unittest import result
 
 
 expected_string = input('Enter the Element : ')
